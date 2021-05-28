@@ -1,0 +1,15 @@
+/**
+ *
+ * Inputsearch
+ *
+ */
+import * as React from 'react';
+import styled from 'styled-components/macro';
+
+interface Props {}
+
+export function Inputsearch(props: Props) {
+  return <Div></Div>;
+}
+
+const Div = styled.div``;
